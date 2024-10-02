@@ -1,36 +1,4 @@
-// const ism = prompt("ismni kiriting ");
-
-// const mehmonlar = [
-//   "Ahror",
-//   "Sarvarjon",
-//   "Dadaxon",
-//   "Bahrom",
-//   "MuhammadNurullox ",
-//   "Behzod ",
-//   "Davlaltjon ",
-//   "odil",
-//   "hoshim",
-//   "yahyobek",
-// ];
-// console.log(mehmonlar[Math.floor(Math.random() * (mehmonlar.length - 1))]);
-// console.log(mehmonlar[Math.floor(Math.random() * mehmonlar.length)]);
-// if (mehmonlar.includes(ism)) {
-//   console.log("true");
-// } else {
-//   console.log("fasle");
-// }
-
-// const a = prompt("sonni kiriting ");
-// let counter = [];
-// for (let i = 1; i <= a; i++) {
-//   if (i % 2 == 1) {
-//     counter.push(i);
-//     console.log(i);
-//   }
-// }
-// console.log(counter);
-// console.log(counter.length);
-
+/* 1-topshiriq*/
 /* 1-misol*/
 
 // const n = prompt(" n sonini kiriting ");
@@ -95,6 +63,7 @@
 
 // const n = prompt("n sonini kiriting");
 // let sum = 0;
+
 // for (let i = 1; i <= n; i++) {
 //   if (n % i == 0) {
 //     console.log(i);
@@ -135,7 +104,8 @@
 //   }
 // }
 
-/* 9-misol*/
+/* 2-topshiriq*/
+/* 1-misol*/
 
 // let k = prompt(" k soninoi kiriting ");
 // let n = prompt(" n soninoi kiriting ");
@@ -144,7 +114,7 @@
 //   console.log(k);
 // }
 
-/* 10-misol*/
+/* 2-misol*/
 
 // let a = prompt(" a soninoi kiriting ");
 // let b = prompt(" b soninoi kiriting ");
@@ -153,7 +123,7 @@
 //   console.log(i);
 // }
 
-/* 11-misol*/
+/* 3-misol*/
 
 // let a = prompt("a sonini kiriting");
 // let b = prompt("b sonini kiriting b adan katta bosin ");
@@ -164,7 +134,7 @@
 
 // console.log(`soni ${b - a - 1}`);
 
-/* 12-misol*/
+/* 4-misol*/
 
 // let a = prompt("1kg kanfet narxini kiriting");
 
@@ -172,7 +142,7 @@
 //   console.log(`${i}kg  ${i * a} so'm`);
 // }
 
-/* 13-misol*/
+/* 5-misol*/
 
 // let a = prompt("1kg konfet narxini kiriting");
 
@@ -180,7 +150,7 @@
 //   console.log(`${i * 100}gr ${(a * i) / 10} so'm`);
 // }
 
-/* 14-misol*/
+/* 6-misol*/
 
 // let a = prompt("1kg konfet narxini kiriting");
 
@@ -188,7 +158,7 @@
 //   console.log(`${i / 10 + 1}kg = ${a * (i / 10 + 1)} so'm`);
 // }
 
-/* 15-misol*/
+/* 7-misol*/
 
 // let a = prompt("a sonini kiriting");
 // let b = prompt("b sonini kiriting (a<b) a soni b sonidan kichik bolsisn");
@@ -196,7 +166,7 @@
 
 // console.log(((Number(a) + Number(b)) / 2) * m);
 
-/* 16-misol*/
+/* 8-misol*/
 
 // let a = prompt("a sonini kiriting");
 // let b = prompt("b sonini kiriting (a<b)  a soni b sonidan kichik bolsisn");
@@ -208,7 +178,7 @@
 
 // console.log(`ko'paytmasi ${n} ga teng`);
 
-/* 17-misol*/
+/* 9-misol*/
 
 // let a = prompt("a sonini kiriting");
 // let b = prompt("b sonini kiriting (a<b) a soni b sonidan kichik bolsisn");
@@ -220,7 +190,7 @@
 
 // console.log(`kvadratlarining yig'indisi ${n - 1} ga teng`);
 
-/* 18-misol*/
+/* 10-misol*/
 
 // let n = prompt("n sonini kiriting (n>0 n soni 0 lad katta bolsin)");
 // let s = 0;
@@ -231,7 +201,7 @@
 
 // console.log(`S = ${s}`);
 
-/* 19-misol*/
+/* 11-misol*/
 
 // let n = prompt("n sonini kiriting (n>0 n soni 0 lad katta bolsin)");
 // let s = 1;
@@ -242,7 +212,7 @@
 
 // console.log(`S = ${s - 2}`);
 
-/* 20-misol*/
+/* 12-misol*/
 
 // let n = prompt("n sonini kiriting (n>0 n soni 0 dan katta bolsin )");
 // let s = 1;
